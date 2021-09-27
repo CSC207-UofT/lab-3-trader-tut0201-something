@@ -1,7 +1,8 @@
 interface Drivable {
     /**
      * Increase the maximum speed of this Vehicle.
-     **/
+     *
+     * @return*/
     void upgradeSpeed();
 
     /**
